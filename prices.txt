@@ -34,4 +34,11 @@ greenlight pay (like stripe)
 ██╔══██╗██║   ██║   ██║      ██║   ██║██║╚██╗██║██║   ██║
 ██████╔╝╚██████╔╝   ██║      ██║   ██║██║ ╚████║╚██████╔╝
 ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+
+
+feds.lol/vouch
+feds.lol/encrypted
+https://discord.gg/VWtg3nMgud
+
                                                          
